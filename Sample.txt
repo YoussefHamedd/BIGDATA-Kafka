@@ -1,0 +1,3 @@
+Hello Kafka Streams
+Kafka Streams are awesome
+Big Data is cool
